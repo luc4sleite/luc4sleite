@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on front-end development
-- 🌱 I’m currently learning TypeScript, Angular and Mobile development
+- 🌱 I’m currently learning TypeScript, React and Mobile development
 - 📍 I'm from São Paulo, Brazil
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sleite&layout=compact&theme=dark)](https://github.com/luc4sleite)
